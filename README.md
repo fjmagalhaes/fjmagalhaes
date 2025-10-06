@@ -10,10 +10,10 @@ Em 2009 conquistou seu diploma de bacharel em Administração de Empresas, compl
 
 Em paralelo, ele otimizou muito a produtividade de sua equipe com métodos estratégicos de gerenciamento de projetos e garantindo um equilíbrio entre vida pessoal e profissional para seu departamento.
 
-Atualmente, venho estudando **HTML**, **CSS** e **JavaScript** para desenvolver projetos práticos e aprimorar minhas habilidades.  
-Gosto de desafios e de aprender constantemente novas técnicas e conceitos da área de TI.
+Atualmente, ele estuda **HTML**, **CSS** e **JavaScript** para desenvolver projetos práticos e aprimorar suas habilidades.  
+Gosta de desafios e de aprender constantemente novas técnicas e conceitos da área de TI.
 
-Nos meus momentos livres, gosto de explorar novas ferramentas, aprender sobre **inteligência artificial (IA)** e trocar ideias com outros desenvolvedores.
+Nos seus momentos livres, gosta de explorar novas ferramentas, aprender sobre **inteligência artificial (IA)** e trocar ideias com outros desenvolvedores.
 
 ---
 
