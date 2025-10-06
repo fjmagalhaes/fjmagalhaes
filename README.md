@@ -1,5 +1,7 @@
 <h1 align="center">On the wave of technological learning.</h1>
 
+Sou um profissional com mais de 20 anos de experiência na área técnica, especializado em manutenção de equipamentos eletrônicos, informática e redes estruturadas. Minha trajetória abrange tanto o setor público quanto o privado, o que me proporcionou uma visão ampla e diversificada do mercado. Em 2009, obtive meu diploma de bacharel em Administração de Empresas pela Universidade Paulista (UNIP), o que complementou minha formação técnica com conhecimentos em gestão e administração.
+
 ###
 
 <div align="center">
