@@ -1,7 +1,29 @@
-<h1 align="center">On the wave of technological learning.</h1>
+# 👋 Olá, eu sou Francisco Júnio
 
-Profissional com mais de 20 anos de experiência na área técnica, especializado em manutenção de equipamentos eletrônicos, informática e redes estruturadas. Minha trajetória abrange tanto o setor público quanto o privado, o que me proporcionou uma visão ampla e diversificada do mercado. Em 2009, obtive meu diploma de bacharel em Administração de Empresas, o que complementou minha formação técnica com conhecimentos em gestão e administração.
 
+O Francisco é alimentado por uma paixão ao conhecimento em entender as nuances da publicidade intercultural. E se considera um 'aluno sempre em formação', ansioso para construir seus fundamentos acadêmicos com o mundo tecnológico, e ficar em sintonia com as mais recentes estratégias de marketing digital, programação e segurança cibernética através de cursos continuados.
+
+
+Profissional com mais de 20 anos de experiência na área técnica, especializado em manutenção de equipamentos eletrônicos, informática e redes estruturadas. Traçou sua trajetória transformando informação em conhecimento difundindo-a nos mais diversos ambientes, o que lhe proporcionou uma visão ampla e diversificada do mercado.
+
+Em 2009 conquistou seu diploma de bacharel em Administração de Empresas, complementando sua formação técnica com conhecimentos em gestão e administração.
+
+Em paralelo, ele otimizou muito a produtividade de sua equipe com métodos estratégicos de gerenciamento de projetos e garantindo um equilíbrio entre vida pessoal e profissional para seu departamento.
+
+Atualmente, venho estudando **HTML**, **CSS** e **JavaScript** para desenvolver projetos práticos e aprimorar minhas habilidades.  
+Gosto de desafios e de aprender constantemente novas técnicas e conceitos da área de TI.
+
+Nos meus momentos livres, gosto de explorar novas ferramentas, aprender sobre **inteligência artificial (IA)** e trocar ideias com outros desenvolvedores.
+
+---
+
+###
+
+[🔗 Agradecemos pela visita e volte sempre!]
+
+---
+
+> 💡 *“A pior prisão é a do cérebro.”*
 ###
 
 <div align="center">
