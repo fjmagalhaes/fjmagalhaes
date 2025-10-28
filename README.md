@@ -17,6 +17,7 @@ Nos seus momentos livres, gosta de explorar novas ferramentas, aprender sobre **
 > 💡 *“A pior prisão é a do cérebro.”*
 ###
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fjmagalhaes/fjmagalhaes/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fjmagalhaes/fjmagalhaes/output/pacman-contribution-graph.svg">
