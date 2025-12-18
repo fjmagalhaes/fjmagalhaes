@@ -1,3 +1,4 @@
+<main>
 <h1 align="center">💡 “A pior prisão é a do cérebro.”</h1>
 <table>
   <tr>
@@ -10,7 +11,7 @@
       </p>
       <p>
         Atualmente direciono meus estudos para desenvolvimento de <b>APIs REST</b>,
-        boas práticas de código, versionamento com Git/GitHub e organização de projetos.
+        boas práticas de código, versionamento com <b>Git/GitHub</b> e organização de projetos.
       </p>
     </td>
     <td width="50%" align="center">
@@ -147,7 +148,7 @@
 
 
 <div align="center">
- [🔗 Agradecemos pela visita e volte sempre!]
+ <p>[🔗 Agradecemos pela visita e volte sempre!]</p>
 </div>
 
-
+</main>
