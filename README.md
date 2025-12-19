@@ -35,15 +35,19 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_Cybersecurity-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Networking-Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+</p>  
+  
+  <h2>🕸️ Networking global </h2>
+  
+<p align="middle">    
   <img src="https://img.shields.io/badge/CyberOps-1BA0D7?style=flat&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Hackers_do_Bem-Cybersecurity-2E7D32?style=flat&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Nivelamento-Fundamentos-1565C0?style=flat&logo=readthedocs&logoColor=white" />
   <img src="https://img.shields.io/badge/Nível-Básico-757575?style=flat&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Hackers_do_Bem-Segurança_Ofensiva-2E7D32?style=flat&logo=hackthebox&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Cisco_Cybersecurity-1BA0D7?style=flat&logo=cisco&logoColor=white" />
 </p>
 
 <div align="center">
