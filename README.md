@@ -119,7 +119,7 @@
       <td>Portfólio Web</td>
       <td>Página pessoal simples e responsiva</td>
       <td>HTML, CSS</td>
-      <td>http://127.0.0.1:5500/index.html</td>
+      <td>🔗 Repositório </td>
       <td>✅ Concluído</td>
     </tr>
   </tbody>
