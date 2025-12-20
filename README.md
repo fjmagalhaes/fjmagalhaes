@@ -82,8 +82,8 @@
     </tr>
     <tr>
       <td>🌐 Rocketseat</td>
-      <td>Formação Front-End (HTML, CSS, JavaScript, Git/GitHub)</td>
-      <td>🔗 Repositório</td>
+      <td> Gerenciador de links </td>
+      <td> https://github.com/fjmagalhaes/Gerenciador-de-links?tab=readme-ov-file#-projeto </td>
       <td>✅ Concluído</td>
     </tr>
     <tr>
