@@ -83,7 +83,7 @@
     <tr>
       <td>🌐 Rocketseat</td>
       <td> Gerenciador de links </td>
-      <td> https://github.com/fjmagalhaes/Gerenciador-de-links?tab=readme-ov-file#-projeto </td>
+      <td><li align="center"><a href="https://github.com/fjmagalhaes/Gerenciador-de-links?tab=readme-ov-file#-projeto" target="_blank">Link</a></td>
       <td>✅ Concluído</td>
     </tr>
     <tr>
@@ -119,7 +119,11 @@
       <td>Portfólio Web</td>
       <td>Página pessoal simples e responsiva</td>
       <td>HTML, CSS</td>
-      <td>https://fjmagalhaes.github.io/Gerenciador-de-links</td>
+      <ul>
+      <td>
+       <li align="center"><a href="https://fjmagalhaes.github.io/Gerenciador-de-links" target="_blank">Link</a></li>
+      </td>
+      </ul>
       <td>✅ Concluído</td>
     </tr>
   </tbody>
