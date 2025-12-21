@@ -119,7 +119,7 @@
       <td>Portfólio Web</td>
       <td>Página pessoal simples e responsiva</td>
       <td>HTML, CSS</td>
-      <td>🔗 Repositório </td>
+      <td>https://fjmagalhaes.github.io/Gerenciador-de-links</td>
       <td>✅ Concluído</td>
     </tr>
   </tbody>
