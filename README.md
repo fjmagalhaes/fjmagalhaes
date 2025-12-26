@@ -14,11 +14,11 @@
         boas práticas de código, versionamento com <b>Git/GitHub</b> e organização de projetos.
       </p>
     </td>
-    <td width="50%" align="center">
+    <td width="" align="center">
       <!-- Light theme -->
-      <img src="https://github-readme-stats.vercel.app/api?username=fjmagalhaes&show_icons=true&theme=default#gh-light-mode-only" />
+      <img src="https://readme-stats-fjmagalhaes.vercel.app/api?username=fjmagalhaes&show_icons=true&theme=react" />
       <!-- Dark theme -->
-      <img src="https://github-readme-stats.vercel.app/api?username=fjmagalhaes&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=fjmagalhaes&show_icons=true&theme=tokyonight#gh-dark-mode-only" /> --!>
     </td>
   </tr>
 </table>
@@ -83,7 +83,7 @@
     <tr>
       <td>🌐 Rocketseat</td>
       <td> Gerenciador de links </td>
-      <td><li align="center"><a href="https://github.com/fjmagalhaes/Gerenciador-de-links?tab=readme-ov-file#-projeto" target="_blank">Link</a></td>
+      <td><li align="center"><a href="https://github.com/fjmagalhaes/Gerenciador-de-links?tab=readme-ov-file#-projeto" target="_blank">Acessar</a></td>
       <td>✅ Concluído</td>
     </tr>
     <tr>
@@ -121,7 +121,7 @@
       <td>HTML, CSS</td>
       <ul>
       <td>
-       <li align="center"><a href="https://fjmagalhaes.github.io/Gerenciador-de-links" target="_blank">Link</a></li>
+       <li align="center"><a href="https://fjmagalhaes.github.io/Gerenciador-de-links" target="_blank">Acessar</a></li>
       </td>
       </ul>
       <td>✅ Concluído</td>
