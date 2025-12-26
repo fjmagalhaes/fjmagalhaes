@@ -14,13 +14,15 @@
         boas práticas de código, versionamento com <b>Git/GitHub</b> e organização de projetos.
       </p>
     </td>
-    <td width="" align="center">
+    <td width="100%" align="center">
       <!-- Light theme -->
       <img src="https://readme-stats-fjmagalhaes.vercel.app/api?username=fjmagalhaes&show_icons=true&theme=react" />
       <!-- Dark theme -->
       <!-- <img src="https://github-readme-stats.vercel.app/api?username=fjmagalhaes&show_icons=true&theme=tokyonight#gh-dark-mode-only" /> --!>
-    </td>
-  </tr>
+      
+    
+  </td>
+   </tr>      
 </table>
 
 <h2>🚀 Tecnologias e Ferramentas</h2>
