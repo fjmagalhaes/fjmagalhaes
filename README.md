@@ -90,10 +90,16 @@
     </tr>
     <tr>
       <td>📘 Estudos complementares</td>
-      <td>Lógica, Git, GitHub e boas práticas</td>
+      <td>Lógica, Git, GitHub e boas práticas de versionamento</td>
       <td>🔗 Repositório</td>
       <td>🔄 Contínuo</td>
     </tr>
+    <tr>
+  <td>🎓 Alura | 🐍 Python Institute</td>
+  <td>Variáveis, tipos de dados, condicionais e lógica básica</td>
+  <td>📂 Exercícios práticos</td>
+  <td>🚀 Iniciante</td>
+</tr>
   </tbody>
 </table>
 
