@@ -73,13 +73,13 @@
     <tr>
       <td>☕ SENAI</td>
       <td>Programador Full-Stack (APIs REST, MySQL, Angular)</td>
-      <td>🔗 Repositório</td>
+      <td>🟡 status: em andamento</td>
       <td>⏳ Em andamento</td>
     </tr>
     <tr>
       <td>🧠 CISCO</td>
       <td>Governança de T.I., Cyber Security, CCNA1 e CyberOps (11ª Maratona)</td>
-      <td>🔗 Repositório</td>
+      <td>🛠️ Funcionalidade em desenvolvimento</td>
       <td>⏳ Em andamento</td>
     </tr>
     <tr>
@@ -91,12 +91,12 @@
     <tr>
       <td>📘 Estudos complementares</td>
       <td>Lógica, Git, GitHub e boas práticas de versionamento</td>
-      <td>🔗 Repositório</td>
+      <td>📈 evoluindo</td>
       <td>🔄 Contínuo</td>
     </tr>
     <tr>
   <td>🎓 Alura</td>
-  <td>Variáveis, tipos de dados, condicionais e lógica básica</td>
+  <td>Aplicação básica em Power BI e testes com Streamlit</td>
   <td><li align="center"><a href="https://datascientist25-26.streamlit.app/" target="_blank">Acessar</a></td>
   <td>🚧 MenAtWork</td>
 </tr>
