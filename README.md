@@ -95,10 +95,10 @@
       <td>🔄 Contínuo</td>
     </tr>
     <tr>
-  <td>🎓 Alura | 🐍 Python Institute</td>
+  <td>🎓 Alura</td>
   <td>Variáveis, tipos de dados, condicionais e lógica básica</td>
-  <td>📂 Exercícios práticos</td>
-  <td>🚀 Iniciante</td>
+  <td><li align="center"><a href="https://datascientist25-26.streamlit.app/" target="_blank">Acessar</a></td>
+  <td>🚧 MenAtWork</td>
 </tr>
   </tbody>
 </table>
