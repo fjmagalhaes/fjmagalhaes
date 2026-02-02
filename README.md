@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/Networking-Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white" />  
   </p>  
     
-    <h2>🕸️ Networking global </h2>
+  <h2>🕸️ Networking global </h2>
     
   <p align="middle">    
     <img src="https://img.shields.io/badge/CyberOps-1BA0D7?style=flat&logo=cisco&logoColor=white" />
